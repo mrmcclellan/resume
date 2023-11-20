@@ -55,9 +55,9 @@ Aside
 
 ```{r}
 if(params$pdf_mode){
-  cat("View this resume online with links at _matthewmcclellan.com/resume_")
+  cat("View this resume online with links at _mrmcclellan.github.io/resume_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this resume](https://github.com/mrmcclellan/cv/raw/master/mcclellan_resume.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this resume](https://mrmcclellan.github.io/resume/index.pdf)")
 }
 ```
 
